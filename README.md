@@ -37,10 +37,3 @@ This project provides a Python script to enhance your Spotify streaming history 
 
 The script will create a new file named `artist_genres.csv` containing your original data with an additional "Genres" column.
 
-## Disclaimer
-
-This project is for educational purposes and personal use only. Be mindful of Spotify's API usage policies.
-
-## License
-
-This project is licensed under the MIT License.
